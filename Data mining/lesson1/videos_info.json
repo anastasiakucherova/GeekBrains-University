@@ -1,0 +1,352 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "LZhSk67-C0Ght8e2Sm_6ahKn35s",
+  "nextPageToken": "CAoQAA",
+  "regionCode": "RU",
+  "pageInfo": {
+    "totalResults": 70,
+    "resultsPerPage": 10
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4QaDOKFhc4RPvSwKhcPl0TcdTbQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nzofP4wH6Zg"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-06T18:00:07Z",
+        "channelId": "UCGYD8kK1HgUpM9uUnIVUG8Q",
+        "title": "Area9 Lyceum - The leader in adaptive learning systems",
+        "description": "Area9 Lyceum builds 21st century skills and competencies through the world's first four-dimensional learning platform, Area9 Rhapsode™. Based on more than ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nzofP4wH6Zg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nzofP4wH6Zg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nzofP4wH6Zg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Area9 Lyceum",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-06T18:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UvKXw9ARGnfq3Fba7m60TwCt-Pc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TVnE1nd-J0c"
+      },
+      "snippet": {
+        "publishedAt": "2015-05-18T22:44:47Z",
+        "channelId": "UCGYD8kK1HgUpM9uUnIVUG8Q",
+        "title": "AREA9 CORPORATE ADAPTIVE LEARNING",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TVnE1nd-J0c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TVnE1nd-J0c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TVnE1nd-J0c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Area9 Lyceum",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-05-18T22:44:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7lQ2_o4g2nWOGHEWx7jzCmStttw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u3fAFTEusc4"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-19T15:08:37Z",
+        "channelId": "UCGYD8kK1HgUpM9uUnIVUG8Q",
+        "title": "Area9: 21st century e-learning",
+        "description": "Nick Howe, Area9's Chief Learning Officer discusses the the latest developments in cognitive neuroscience and adaptive learning - and the implications for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u3fAFTEusc4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u3fAFTEusc4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u3fAFTEusc4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Area9 Lyceum",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-19T15:08:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pHjat7k9rjYsM3SkX77qcabPSLo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tMLX0mLbMyM"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-20T17:25:59Z",
+        "channelId": "UCGYD8kK1HgUpM9uUnIVUG8Q",
+        "title": "Who is Area9 Learning?",
+        "description": "Area9 Group CEO Ulrik Christensen and COO Khurram Jamil explain who Area9 Learning is, and highlight some of our key customers. Download our adaptive ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tMLX0mLbMyM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tMLX0mLbMyM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tMLX0mLbMyM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Area9 Lyceum",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-20T17:25:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nntjQ5TylfgAAIB7c1sbuyU5NVE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1Bvscl_oveU"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-20T20:33:00Z",
+        "channelId": "UCGYD8kK1HgUpM9uUnIVUG8Q",
+        "title": "Area9 Learning  Solving skills challenges in the retail industry",
+        "description": "With high turnover and a seasonal workforce, hiring and retaining skilled and knowledgeable workers is a key challenge in retail. Area9 Learning brings the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1Bvscl_oveU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1Bvscl_oveU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1Bvscl_oveU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Area9 Lyceum",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-20T20:33:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kl_atUDuZkAL4KoKz8wbQMi13Bc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G4STHcp0Udc"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-20T17:27:52Z",
+        "channelId": "UCGYD8kK1HgUpM9uUnIVUG8Q",
+        "title": "Why is Area9&#39;s approach different",
+        "description": "Area9's approach to e-learning is unique in the industry. Find out from Area9 CEO Ulrik Christensen what makes our approach so different, and so much better.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G4STHcp0Udc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G4STHcp0Udc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G4STHcp0Udc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Area9 Lyceum",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-20T17:27:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-g-FKZXMAaSmCPzHONFgHpesNOk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1SBAbsJFGpM"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-20T20:29:29Z",
+        "channelId": "UCGYD8kK1HgUpM9uUnIVUG8Q",
+        "title": "Content creation services HD",
+        "description": "Though it is easy to get started with adaptive learning, we are here to help you on the way. Area9 COO Khurram Jamil explains how we can do as little, or as ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1SBAbsJFGpM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1SBAbsJFGpM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1SBAbsJFGpM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Area9 Lyceum",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-20T20:29:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jCR4JhQkpvevALZ4VGGdF_7oV78",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6SThHPJbetM"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-20T17:46:55Z",
+        "channelId": "UCGYD8kK1HgUpM9uUnIVUG8Q",
+        "title": "Why is the biological model better than an inference model",
+        "description": "Learn from Area9 CEO Ulrik Christensen about the 'biological model' at the heart of our adaptive learning technology, and why the alternative approach - the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6SThHPJbetM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6SThHPJbetM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6SThHPJbetM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Area9 Lyceum",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-20T17:46:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bpV5QjKUlxW3UcZQBBM68Oy69LI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zoP1N5TvSDU"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-20T20:35:21Z",
+        "channelId": "UCGYD8kK1HgUpM9uUnIVUG8Q",
+        "title": "Solving the compliance training problem using adaptive learning",
+        "description": "Compliance training has a terrible reputation, typically being seen as a time-waster and 'tick-the-box' activity to be tolerated, rather than a tool to drive good ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zoP1N5TvSDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zoP1N5TvSDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zoP1N5TvSDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Area9 Lyceum",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-20T20:35:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tU9M6RGiN30y-tGmwpDHWbiOtQo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0mFY3-wAU7Y"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-20T20:31:11Z",
+        "channelId": "UCGYD8kK1HgUpM9uUnIVUG8Q",
+        "title": "Using adaptive learning to power a flipped classroom approach",
+        "description": "Combining online adaptive learning with face-to-face instruction in a 'flipped' classroom model can be one of the most effective and efficient learning strategies.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0mFY3-wAU7Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0mFY3-wAU7Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0mFY3-wAU7Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Area9 Lyceum",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-20T20:31:11Z"
+      }
+    }
+  ]
+}
